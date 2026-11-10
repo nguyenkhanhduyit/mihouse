@@ -1,0 +1,1024 @@
+{
+  "origin": "https://mihousespa.com",
+  "source": "33 archived HTML files",
+  "count": 202,
+  "by_type": {
+    "css": 21,
+    "javascript": 17,
+    "image": 160,
+    "font": 0,
+    "other": 4
+  },
+  "assets": [
+    {
+      "path": "/assets/bootstrap/bootstrap-purged.css",
+      "url": "https://mihousespa.com/assets/bootstrap/bootstrap-purged.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/bootstrap/bootstrap.js",
+      "url": "https://mihousespa.com/assets/bootstrap/bootstrap.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/confirm/confirm.js",
+      "url": "https://mihousespa.com/assets/confirm/confirm.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/css/animate.min.css",
+      "url": "https://mihousespa.com/assets/css/animate.min.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/effect.css",
+      "url": "https://mihousespa.com/assets/css/effect.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/fonts.css",
+      "url": "https://mihousespa.com/assets/css/fonts.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/google/map.css",
+      "url": "https://mihousespa.com/assets/css/google/map.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/hvr-animation.css",
+      "url": "https://mihousespa.com/assets/css/hvr-animation.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/lazy-embed.css",
+      "url": "https://mihousespa.com/assets/css/lazy-embed.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/media.css",
+      "url": "https://mihousespa.com/assets/css/media.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/navigation.css",
+      "url": "https://mihousespa.com/assets/css/navigation.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/prettier.css",
+      "url": "https://mihousespa.com/assets/css/prettier.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/reset.css",
+      "url": "https://mihousespa.com/assets/css/reset.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/responsive.css",
+      "url": "https://mihousespa.com/assets/css/responsive.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/scroll-animate.css",
+      "url": "https://mihousespa.com/assets/css/scroll-animate.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/simply-animation.css",
+      "url": "https://mihousespa.com/assets/css/simply-animation.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/style.css",
+      "url": "https://mihousespa.com/assets/css/style.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/css/utility.css",
+      "url": "https://mihousespa.com/assets/css/utility.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/fancybox5/fancybox.js",
+      "url": "https://mihousespa.com/assets/fancybox5/fancybox.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/fancybox5/fancybox.min.css",
+      "url": "https://mihousespa.com/assets/fancybox5/fancybox.min.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/fontawesome640/all.css",
+      "url": "https://mihousespa.com/assets/fontawesome640/all.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/holdon/HoldOn.js",
+      "url": "https://mihousespa.com/assets/holdon/HoldOn.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/images/icon-3stars.png",
+      "url": "https://mihousespa.com/assets/images/icon-3stars.png",
+      "type": "image"
+    },
+    {
+      "path": "/assets/images/intro-bg.jpg",
+      "url": "https://mihousespa.com/assets/images/intro-bg.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/assets/images/service-price-bg.png",
+      "url": "https://mihousespa.com/assets/images/service-price-bg.png",
+      "type": "image"
+    },
+    {
+      "path": "/assets/js/alpinejs.js",
+      "url": "https://mihousespa.com/assets/js/alpinejs.js",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/apps.js",
+      "url": "https://mihousespa.com/assets/js/apps.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/functions.js",
+      "url": "https://mihousespa.com/assets/js/functions.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/jquery.min.js",
+      "url": "https://mihousespa.com/assets/js/jquery.min.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/lazy-embed.js",
+      "url": "https://mihousespa.com/assets/js/lazy-embed.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/marquee.js",
+      "url": "https://mihousespa.com/assets/js/marquee.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/navigator.js",
+      "url": "https://mihousespa.com/assets/js/navigator.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/js/scroll-animate.js",
+      "url": "https://mihousespa.com/assets/js/scroll-animate.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/simplenotify/simple-notify.js",
+      "url": "https://mihousespa.com/assets/simplenotify/simple-notify.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/splide/splide-extension-auto-scroll.min.js",
+      "url": "https://mihousespa.com/assets/splide/splide-extension-auto-scroll.min.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/splide/splide.min.css",
+      "url": "https://mihousespa.com/assets/splide/splide.min.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/splide/splide.min.js",
+      "url": "https://mihousespa.com/assets/splide/splide.min.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/sweetalert2/sweetalert2.min.css",
+      "url": "https://mihousespa.com/assets/sweetalert2/sweetalert2.min.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/sweetalert2/sweetalert2.min.js",
+      "url": "https://mihousespa.com/assets/sweetalert2/sweetalert2.min.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/assets/swiper/swiper-bundle.min.css",
+      "url": "https://mihousespa.com/assets/swiper/swiper-bundle.min.css?v=1794248450",
+      "type": "css"
+    },
+    {
+      "path": "/assets/swiper/swiper-bundle.min.js",
+      "url": "https://mihousespa.com/assets/swiper/swiper-bundle.min.js?v=1794248450",
+      "type": "javascript"
+    },
+    {
+      "path": "/thumbs/100x70x2/upload/news/2026/09/05/why-choose-1-1788572570.webp",
+      "url": "https://mihousespa.com/thumbs/100x70x2/upload/news/2026/09/05/why-choose-1-1788572570.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/100x70x2/upload/news/2026/09/05/why-choose-2-1788572589.webp",
+      "url": "https://mihousespa.com/thumbs/100x70x2/upload/news/2026/09/05/why-choose-2-1788572589.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/100x70x2/upload/news/2026/09/05/why-choose-3-1788572598.webp",
+      "url": "https://mihousespa.com/thumbs/100x70x2/upload/news/2026/09/05/why-choose-3-1788572598.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/100x70x2/upload/news/2026/09/05/why-choose-4-1788572607.webp",
+      "url": "https://mihousespa.com/thumbs/100x70x2/upload/news/2026/09/05/why-choose-4-1788572607.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1024x534x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "url": "https://mihousespa.com/thumbs/1024x534x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1024x534x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "url": "https://mihousespa.com/thumbs/1024x534x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1055x1491x1/upload/news/2026/09/10/khong-gian-3-1789038355.webp",
+      "url": "https://mihousespa.com/thumbs/1055x1491x1/upload/news/2026/09/10/khong-gian-3-1789038355.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1118x950x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "url": "https://mihousespa.com/thumbs/1118x950x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1132x962x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "url": "https://mihousespa.com/thumbs/1132x962x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1134x960x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "url": "https://mihousespa.com/thumbs/1134x960x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1136x964x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "url": "https://mihousespa.com/thumbs/1136x964x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1136x972x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "url": "https://mihousespa.com/thumbs/1136x972x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x120x1/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.webp",
+      "url": "https://mihousespa.com/thumbs/120x120x1/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/120x80x1/upload/noimage.webp",
+      "url": "https://mihousespa.com/thumbs/120x80x1/upload/noimage.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1366x712x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "url": "https://mihousespa.com/thumbs/1366x712x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1366x712x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "url": "https://mihousespa.com/thumbs/1366x712x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/140x140x1/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700957.webp",
+      "url": "https://mihousespa.com/thumbs/140x140x1/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700957.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1600x834x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "url": "https://mihousespa.com/thumbs/1600x834x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1600x834x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "url": "https://mihousespa.com/thumbs/1600x834x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1920x1000x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "url": "https://mihousespa.com/thumbs/1920x1000x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1920x1000x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "url": "https://mihousespa.com/thumbs/1920x1000x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/1920x2560x1/upload/news/2026/09/20/1wupukm89irozafcsrti31nwnjrvqtmdan2rgrkyqmrks5xaqqx5ys4mbt7cyoqazwh-1789886518.webp",
+      "url": "https://mihousespa.com/thumbs/1920x2560x1/upload/news/2026/09/20/1wupukm89irozafcsrti31nwnjrvqtmdan2rgrkyqmrks5xaqqx5ys4mbt7cyoqazwh-1789886518.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/26x26x1/upload/photo/2026/09/04/fb-1788513580.webp",
+      "url": "https://mihousespa.com/thumbs/26x26x1/upload/photo/2026/09/04/fb-1788513580.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/26x26x1/upload/photo/2026/09/04/ggmap-1788513613.webp",
+      "url": "https://mihousespa.com/thumbs/26x26x1/upload/photo/2026/09/04/ggmap-1788513613.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x295x1/upload/news/2026/09/10/khong-gian-3-1789038355.webp",
+      "url": "https://mihousespa.com/thumbs/360x295x1/upload/news/2026/09/10/khong-gian-3-1789038355.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/assets/images/noimage.png.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/assets/images/noimage.png.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115652-1789018252.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115652-1789018252.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115704-1789018276.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115704-1789018276.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115714-1789018292.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115714-1789018292.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115725-1789018304.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115725-1789018304.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115737-1789018326.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115737-1789018326.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115749-1789018345.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115749-1789018345.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115758-1789018371.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115758-1789018371.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115809-1789018385.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115809-1789018385.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115830-1789018400.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115830-1789018400.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115842-1789018414.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115842-1789018414.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115953-1789019267.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115953-1789019267.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-120004-1789019284.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-120004-1789019284.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123445-1789018495.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123445-1789018495.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123646-1789018614.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123646-1789018614.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123715-1789018645.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123715-1789018645.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123746-1789018676.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123746-1789018676.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123824-1789018713.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123824-1789018713.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123854-1789018745.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123854-1789018745.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123934-1789018781.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123934-1789018781.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123958-1789018809.webp",
+      "url": "https://mihousespa.com/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123958-1789018809.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165651-1789034224.webp",
+      "url": "https://mihousespa.com/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165651-1789034224.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165738-1789034266.webp",
+      "url": "https://mihousespa.com/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165738-1789034266.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165825-1789034316.webp",
+      "url": "https://mihousespa.com/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165825-1789034316.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/4672x7008x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "url": "https://mihousespa.com/thumbs/4672x7008x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/4672x7008x1/upload/news/2026/10/15/ahs08597-1792082506.webp",
+      "url": "https://mihousespa.com/thumbs/4672x7008x1/upload/news/2026/10/15/ahs08597-1792082506.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x360x1/upload/noimage.webp",
+      "url": "https://mihousespa.com/thumbs/480x360x1/upload/noimage.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/assets/images/noimage.png.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/assets/images/noimage.png.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/17898816489442758971624048143724387382050875048701cc973b66801fcd11d4932d9fd147ef2-1789882786.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/17898816489442758971624048143724387382050875048701cc973b66801fcd11d4932d9fd147ef2-1789882786.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648949275897162404814372438738205087504870194b9c8ef6a27c6e97f8baa1abfaaaad-1789882799.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648949275897162404814372438738205087504870194b9c8ef6a27c6e97f8baa1abfaaaad-1789882799.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/178988164895327589716240481437243873820508750487041d70bc844ee1e00e1534990ac36f4d8-1789882814.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/178988164895327589716240481437243873820508750487041d70bc844ee1e00e1534990ac36f4d8-1789882814.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648957275897162404814372438738205087504870e0c60a3802cef6741c051922791b025a-1789882828.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648957275897162404814372438738205087504870e0c60a3802cef6741c051922791b025a-1789882828.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/178988164896027589716240481437243873820508750487065726799551eaa4cf95af57102a66bed-1789882843.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/178988164896027589716240481437243873820508750487065726799551eaa4cf95af57102a66bed-1789882843.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648963275897162404814372438738205087504870cf9b38085c3bb92fe1672217309c8500-1789882860.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648963275897162404814372438738205087504870cf9b38085c3bb92fe1672217309c8500-1789882860.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648966275897162404814372438738205087504870bc4ed451578307486d494266516f5a55-1789882876.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648966275897162404814372438738205087504870bc4ed451578307486d494266516f5a55-1789882876.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648968275897162404814372438738205087504870a634f286fdbbb1adc223cebb938f3c9f-1789882893.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648968275897162404814372438738205087504870a634f286fdbbb1adc223cebb938f3c9f-1789882893.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648971275897162404814372438738205087504870ef9ef090b498dadf865f89f36b58d464-1789883012.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648971275897162404814372438738205087504870ef9ef090b498dadf865f89f36b58d464-1789883012.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648974275897162404814372438738205087504870d8d14d6ab4221854ea8a3ef9c2986680-1789882931.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/1789881648974275897162404814372438738205087504870d8d14d6ab4221854ea8a3ef9c2986680-1789882931.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/20/17898816489762758971624048143724387382050875048707c30ed86e6ebe29ceea4a6ef241a121c-1789882948.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/20/17898816489762758971624048143724387382050875048707c30ed86e6ebe29ceea4a6ef241a121c-1789882948.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x710x1/upload/news/2026/09/23/menu-nail-bo-sung-1790155910.webp",
+      "url": "https://mihousespa.com/thumbs/480x710x1/upload/news/2026/09/23/menu-nail-bo-sung-1790155910.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08586-1792082225.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/10/15/ahs08586-1792082225.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08587-1792082257.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/10/15/ahs08587-1792082257.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08592-1792082345.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/10/15/ahs08592-1792082345.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08595-1792082426.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/10/15/ahs08595-1792082426.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08597-1792082506.webp",
+      "url": "https://mihousespa.com/thumbs/480x780x1/upload/news/2026/10/15/ahs08597-1792082506.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/500x500x1/upload/seopage/2026/09/20/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789883485.webp",
+      "url": "https://mihousespa.com/thumbs/500x500x1/upload/seopage/2026/09/20/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789883485.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/500x690x1/upload/news/2026/09/10/khong-gian-3-1789038355.webp",
+      "url": "https://mihousespa.com/thumbs/500x690x1/upload/news/2026/09/10/khong-gian-3-1789038355.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "url": "https://mihousespa.com/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "url": "https://mihousespa.com/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "url": "https://mihousespa.com/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/604x782x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "url": "https://mihousespa.com/thumbs/604x782x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/618x776x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "url": "https://mihousespa.com/thumbs/618x776x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/6646x4431x1/upload/news/2026/10/15/ahs08592-1792082345.webp",
+      "url": "https://mihousespa.com/thumbs/6646x4431x1/upload/news/2026/10/15/ahs08592-1792082345.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/7008x4672x1/upload/news/2026/10/15/ahs08586-1792082225.webp",
+      "url": "https://mihousespa.com/thumbs/7008x4672x1/upload/news/2026/10/15/ahs08586-1792082225.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/7008x4672x1/upload/news/2026/10/15/ahs08587-1792082257.webp",
+      "url": "https://mihousespa.com/thumbs/7008x4672x1/upload/news/2026/10/15/ahs08587-1792082257.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/7008x4672x1/upload/news/2026/10/15/ahs08595-1792082426.webp",
+      "url": "https://mihousespa.com/thumbs/7008x4672x1/upload/news/2026/10/15/ahs08595-1792082426.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/768x400x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "url": "https://mihousespa.com/thumbs/768x400x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/768x400x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "url": "https://mihousespa.com/thumbs/768x400x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/786x854x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "url": "https://mihousespa.com/thumbs/786x854x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "type": "image"
+    },
+    {
+      "path": "/thumbs/960x940x1/upload/news/2026/09/20/1wupukm89irozafcsrti31nwnjrvqtmdan2rgrkyqmrks5xaqqx5ys4mbt7cyoqazwh-1789886518.webp",
+      "url": "https://mihousespa.com/thumbs/960x940x1/upload/news/2026/09/20/1wupukm89irozafcsrti31nwnjrvqtmdan2rgrkyqmrks5xaqqx5ys4mbt7cyoqazwh-1789886518.webp",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115652.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115652.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115714.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115714.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115725.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115725.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115737.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115737.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115749.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115749.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115758.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115758.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115809.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115809.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115830.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115830.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115842.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115842.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115853.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115853.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115903.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115903.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115914.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115914.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115922.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115922.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115943.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115943.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115953.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-115953.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-120004.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-120004.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-120015.png",
+      "url": "https://mihousespa.com/upload/file/anh-chup-man-hinh-2026-09-10-luc-120015.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/file/darkbabenails7666390344141409556-1789034160.mp4",
+      "url": "https://mihousespa.com/upload/file/darkbabenails7666390344141409556-1789034160.mp4",
+      "type": "other"
+    },
+    {
+      "path": "/upload/file/meilnail77649745681149627669-1789034265.mp4",
+      "url": "https://mihousespa.com/upload/file/meilnail77649745681149627669-1789034265.mp4",
+      "type": "other"
+    },
+    {
+      "path": "/upload/file/missaa3137663155697017785620-1789034316.mp4",
+      "url": "https://mihousespa.com/upload/file/missaa3137663155697017785620-1789034316.mp4",
+      "type": "other"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115652-1789018252.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115652-1789018252.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115704-1789018276.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115704-1789018276.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115714-1789018292.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115714-1789018292.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115725-1789018304.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115725-1789018304.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115737-1789018326.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115737-1789018326.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115749-1789018345.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115749-1789018345.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115758-1789018371.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115758-1789018371.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115809-1789018385.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115809-1789018385.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115830-1789018400.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115830-1789018400.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115842-1789018414.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115842-1789018414.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115953-1789019267.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115953-1789019267.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-120004-1789019284.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-120004-1789019284.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123445-1789018495.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123445-1789018495.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123646-1789018614.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123646-1789018614.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123715-1789018645.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123715-1789018645.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123746-1789018676.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123746-1789018676.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123824-1789018713.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123824-1789018713.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123854-1789018745.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123854-1789018745.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123934-1789018781.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123934-1789018781.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123958-1789018809.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123958-1789018809.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.png",
+      "url": "https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/17898816489442758971624048143724387382050875048701cc973b66801fcd11d4932d9fd147ef2-1789882786.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/17898816489442758971624048143724387382050875048701cc973b66801fcd11d4932d9fd147ef2-1789882786.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648949275897162404814372438738205087504870194b9c8ef6a27c6e97f8baa1abfaaaad-1789882799.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648949275897162404814372438738205087504870194b9c8ef6a27c6e97f8baa1abfaaaad-1789882799.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/178988164895327589716240481437243873820508750487041d70bc844ee1e00e1534990ac36f4d8-1789882814.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/178988164895327589716240481437243873820508750487041d70bc844ee1e00e1534990ac36f4d8-1789882814.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648957275897162404814372438738205087504870e0c60a3802cef6741c051922791b025a-1789882828.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648957275897162404814372438738205087504870e0c60a3802cef6741c051922791b025a-1789882828.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/178988164896027589716240481437243873820508750487065726799551eaa4cf95af57102a66bed-1789882843.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/178988164896027589716240481437243873820508750487065726799551eaa4cf95af57102a66bed-1789882843.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648963275897162404814372438738205087504870cf9b38085c3bb92fe1672217309c8500-1789882860.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648963275897162404814372438738205087504870cf9b38085c3bb92fe1672217309c8500-1789882860.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648966275897162404814372438738205087504870bc4ed451578307486d494266516f5a55-1789882876.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648966275897162404814372438738205087504870bc4ed451578307486d494266516f5a55-1789882876.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648968275897162404814372438738205087504870a634f286fdbbb1adc223cebb938f3c9f-1789882893.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648968275897162404814372438738205087504870a634f286fdbbb1adc223cebb938f3c9f-1789882893.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648971275897162404814372438738205087504870ef9ef090b498dadf865f89f36b58d464-1789883012.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648971275897162404814372438738205087504870ef9ef090b498dadf865f89f36b58d464-1789883012.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/1789881648974275897162404814372438738205087504870d8d14d6ab4221854ea8a3ef9c2986680-1789882931.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/1789881648974275897162404814372438738205087504870d8d14d6ab4221854ea8a3ef9c2986680-1789882931.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/20/17898816489762758971624048143724387382050875048707c30ed86e6ebe29ceea4a6ef241a121c-1789882948.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/20/17898816489762758971624048143724387382050875048707c30ed86e6ebe29ceea4a6ef241a121c-1789882948.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/news/2026/09/23/menu-nail-bo-sung-1790155910.jpg",
+      "url": "https://mihousespa.com/upload/news/2026/09/23/menu-nail-bo-sung-1790155910.jpg",
+      "type": "image"
+    },
+    {
+      "path": "/upload/photo",
+      "url": "https://mihousespa.com/upload/photo",
+      "type": "other"
+    },
+    {
+      "path": "/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png",
+      "url": "https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png",
+      "type": "image"
+    },
+    {
+      "path": "/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700974.png",
+      "url": "https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700974.png",
+      "type": "image"
+    }
+  ]
+}

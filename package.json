@@ -1,0 +1,25 @@
+{
+  "name": "mi-house-spa-react",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "check": "node scripts/verify.mjs",
+    "assets:download": "node scripts/download-assets.mjs",
+    "assets:sync": "node scripts/sync-local-assets.mjs",
+    "check:react": "node scripts/verify-jsx-imports.mjs",
+    "dev:frontend": "vite --host 0.0.0.0 --port 555 --strictPort",
+    "dev:api": "node server/index.mjs",
+    "start": "node server/production.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0"
+  }
+}

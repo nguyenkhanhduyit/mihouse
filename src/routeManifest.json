@@ -1,0 +1,11 @@
+{
+  "/": {
+    "title": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp",
+    "description": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp là địa chỉ thư giãn được yêu thích tại Gò Vấp, chuyên gội đầu dưỡng sinh, massage thư giãn và chăm sóc cơ thể. Không gian nhẹ nhàng, ấm cúng cùng liệu trình chăm sóc tận tâm giúp bạn giảm căng thẳng, thư giãn tinh thần và tái tạo năng lượng sau những ngày bận rộn. Ghé Mi House Spa Quang Trung để tận hưởng những phút giây chăm sóc bản thân trọn vẹn.",
+    "keywords": "Gội Đầu Dưỡng Sinh Gò Vấp, Spa Quang Trung",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "_home"
+  }
+}

@@ -1,0 +1,12 @@
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+const root=resolve(import.meta.dirname,'..');
+const manifest=JSON.parse(readFileSync(resolve(root,'src/routeManifest.json'),'utf8'));
+const pages=readdirSync(resolve(root,'src/pages')).filter(p=>p.endsWith('.jsx'));
+const html=readdirSync(resolve(root,'original-html')).filter(p=>p.endsWith('.html'));
+const album=JSON.parse(readFileSync(resolve(root,'album-source-map.json'),'utf8'));
+const found=['/','/admin'];
+const badLinks=readFileSync(resolve(root,'src/components/SharedShell.jsx'),'utf8').match(/href="\/(?!#|"|admin)[^"#]+"/g)||[];
+const ok=Object.keys(manifest).length===1 && manifest['/']?.file==='_home' && pages.length===1 && pages[0]==='_home.jsx' && html.length===1 && html[0]==='_home.html' && album[0]?.images?.length===8 && album[1]?.images?.length===12 && badLinks.length===0;
+console.log(JSON.stringify({routes:found,jsxPages:pages,referenceHtml:html,albumImages:album.map(x=>({title:x.title,images:x.images.length})),badLinks,ok},null,2));
+if(!ok)process.exitCode=1;

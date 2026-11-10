@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#6d523b" />
+  <meta name="description" content="Mi House Spa – Gội đầu dưỡng sinh, massage, nail tại Gò Vấp." />
+  <title>Mi House Spa</title>
+  <!-- Local fallback is deliberately the only render-blocking stylesheet.
+       Original site CSS is loaded AFTER React mounts, without blocking the page. -->
+  <link rel="stylesheet" href="/fallback.css" />
+  <link rel="stylesheet" href="/site.css" />
+  <link rel="stylesheet" href="/fidelity.css" />
+  <link rel="stylesheet" href="/landing.css" />
+  <link rel="stylesheet" href="/onepage.css" />
+  <link rel="stylesheet" href="/source-fidelity.css" />
+  <script>
+    (function () {
+      window.addEventListener('error', function (event) {
+        var boot = document.getElementById('app-boot-status');
+        if (boot && !document.documentElement.classList.contains('react-ready')) {
+          var detail = event.message || 'Không nạp được JavaScript.';
+          boot.innerHTML = '<strong>Không khởi chạy được giao diện.</strong><p>Kiểm tra Terminal và trình duyệt (F12 → Console). Lỗi: ' +
+            detail.replace(/[&<>]/g, function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]}) + '</p>';
+        }
+      });
+      setTimeout(function () {
+        var boot = document.getElementById('app-boot-status');
+        if (boot && !document.documentElement.classList.contains('react-ready')) {
+          boot.innerHTML = '<strong>Trang chưa tải xong.</strong><p>Hãy chạy <code>npm install</code> rồi <code>npm run dev</code>, mở URL hiện trong Terminal. Nếu vẫn lỗi, nhấn F12 → Console để xem nguyên nhân.</p>';
+        }
+      }, 10000);
+    })();
+  </script>
+</head>
+<body>
+  <div id="app-boot-status" role="status" aria-live="polite" style="min-height:40vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;font:16px/1.65 system-ui;color:#57402f">
+    <strong>Đang khởi tạo Mi House Spa…</strong>
+  </div>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

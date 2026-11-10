@@ -1,0 +1,35 @@
+// Content overlays bind the one-page React layout and CMS changes
+// to the exact semantic nodes in the HTML snapshot. No unsafe innerHTML.
+const selector='h1,h2,h3,h4,p,a,button,img,video,iframe';
+function eligible(el){if(['IMG','VIDEO','IFRAME'].includes(el.tagName))return true;if(el.querySelector('h1,h2,h3,h4,p,a,button'))return false;if(el.tagName==='A'&&el.querySelector('img'))return false;return (el.textContent||'').trim().length>2;}
+const httpsOrRelative=(v)=>{if(typeof v!=='string')return '';if(v.startsWith('/')&&!v.startsWith('//'))return v;try{const u=new URL(v,location.href);return ['http:','https:','tel:','mailto:'].includes(u.protocol)?v:''}catch{return ''}};
+export async function fetchCms(){try{const r=await fetch('/api/public',{signal:AbortSignal.timeout(3500)});if(r.ok)return await r.json()}catch{}return null;}
+function mediaSwap(el,src){const safe=httpsOrRelative(src);if(!safe)return;const picture=el.closest('picture');picture?.querySelectorAll('source').forEach(n=>n.remove());el.removeAttribute('srcset');el.removeAttribute('data-srcset');el.setAttribute('src',safe);}
+export function applyScope(root,scope,cms){if(!root||!cms)return;const overrides=cms.overrides?.[scope]||{};const mediaMap=cms.mediaMap||{};const nodes=root.querySelectorAll(selector);nodes.forEach((el,index)=>{if(!eligible(el))return;el.dataset.cmsIndex=String(index);const value=overrides[index];if(value){el.hidden=Boolean(value.hidden);if(value.editText&&typeof value.text==='string'&& !['IMG','VIDEO','IFRAME'].includes(el.tagName))el.textContent=value.text;if(value.editHref&&el.tagName==='A')el.href=httpsOrRelative(value.href)||'#';if(value.editSrc&&['IMG','VIDEO','IFRAME'].includes(el.tagName))mediaSwap(el,value.src);if(el.tagName==='IMG'&&value.alt)el.alt=value.alt;}
+ if(['IMG','VIDEO','IFRAME'].includes(el.tagName)){const original=el.getAttribute('src')||'';const match=mediaMap[original]||mediaMap[original.replace(/^http:\/\//,'https://')]||mediaMap[original.replace(/^https:\/\//,'http://')];if(match&&!value?.editSrc)mediaSwap(el,match);}
+ });}
+function makeCard(title,description,image,href,classname='cms-card'){const node=document.createElement('article');node.className=classname;const link=document.createElement('a');link.href=httpsOrRelative(href)||'#';if(image){const img=document.createElement('img');img.loading='lazy';img.src=httpsOrRelative(image)||'/media-placeholder.svg';img.alt=title||'';link.append(img)}const h=document.createElement('h3');h.textContent=title||'Chưa đặt tên';link.append(h);if(description){const d=document.createElement('p');d.textContent=description;link.append(d)}node.append(link);return node}
+function mountCustom(root,route,cms){root.querySelectorAll('[data-cms-generated]').forEach(el=>el.remove());const blocks=cms.blocks?.[route]||[];if(blocks.length){const host=document.createElement('section');host.className='cms-extra wrap-content';host.dataset.cmsGenerated='true';for(const block of blocks){if(block.visible===false)continue;const item=makeCard(block.title,block.body,block.image,block.href,'cms-custom-block');if(block.subtitle){const sub=document.createElement('p');sub.className='cms-custom-label';sub.textContent=block.subtitle;item.prepend(sub)}host.append(item)}root.append(host)}
+ if(route==='/'){const parent=root.querySelector('.service-featured .swiper-wrapper')||root.querySelector('.service__list');if(parent){for(const item of (cms.services||[])){const el=makeCard(item.title,item.description,item.image,item.href||'/#footer-primary','cms-card cms-service-card');el.dataset.cmsGenerated='true';parent.append(el)}}}
+ if(route==='/'){const parent=root.querySelector('.service-price__container')||root.querySelector('.price__list')||root.querySelector('.wrap-main .wrap-content');if(parent&&(cms.prices||[]).length){const group=document.createElement('div');group.dataset.cmsGenerated='true';group.className='cms-price-list';for(const row of cms.prices){const el=document.createElement('div');el.className='cms-price-row';const name=document.createElement('span');name.textContent=row.name;const price=document.createElement('strong');price.textContent=row.price;el.append(name,price);group.append(el)}parent.append(group)}}
+}
+function applyGlobalSettings(cms){
+ const settings=cms.settings||{};
+ const footer=document.querySelector('.footer');
+ if(!footer)return;
+ const set=(selector,value)=>{const el=footer.querySelector(selector);if(el&&typeof value==='string')el.textContent=value};
+ set('.footer__name',settings.brand);set('.footer__desc',settings.description);
+ const labels=['Địa Chỉ','Hotline','Email'];
+ footer.querySelectorAll('.footer__content p').forEach(p=>{
+  const txt=p.textContent.trim();
+  if(/^Địa Chỉ:/i.test(txt)&&settings.address)p.textContent=labels[0]+': '+settings.address;
+  if(/^Hotline:/i.test(txt)&&settings.phone)p.textContent=labels[1]+': '+settings.phone;
+  if(/^Email:/i.test(txt)&&settings.email)p.textContent=labels[2]+': '+settings.email;
+ });
+ if(settings.phone){document.querySelectorAll('.site-root a[href^="tel:"]').forEach(a=>{a.href='tel:'+settings.phone.replace(/[^+\d]/g,'');if(/^\+?[\d ()-.]{8,}$/.test(a.textContent.trim()))a.textContent=settings.phone})}
+ if(settings.email){document.querySelectorAll('.site-root a[href^="mailto:"]').forEach(a=>{a.href='mailto:'+settings.email;if(a.textContent.includes('@'))a.textContent=settings.email})}
+ if(settings.bookingLink){for(const a of document.querySelectorAll('.slideshow__btn')){a.href=httpsOrRelative(settings.bookingLink)||'/#footer-primary';if(/^https?:/.test(settings.bookingLink)){a.target='_blank';a.rel='noopener noreferrer'}}}
+ if(settings.contactLink){for(const a of document.querySelectorAll('.navigation__contact')){a.href=httpsOrRelative(settings.contactLink)||'/#footer-primary';if(/^https?:/.test(settings.contactLink)){a.target='_blank';a.rel='noopener noreferrer'}}}
+ for(const [key,needle] of [['facebook','facebook.com'],['maps','maps.app.goo.gl']]){if(settings[key])document.querySelectorAll('.footer a[href],.navigation a[href]').forEach(a=>{if(a.href.includes(needle))a.href=httpsOrRelative(settings[key])||a.href})}
+}
+export function applyCms(route,cms){if(!cms)return;document.documentElement.style.setProperty('--mh-brown',cms.settings?.primary||'#8f624a');document.documentElement.style.setProperty('--mh-cream',cms.settings?.background||'#f8f3ed');applyScope(document.querySelector('.navigation'),'@navigation',cms);applyScope(document.querySelector('.footer'),'@footer',cms);applyGlobalSettings(cms);const main=document.getElementById('main-primary');applyScope(main,route,cms);if(main)mountCustom(main,route,cms);if(cms.settings?.tiktok){const video=main?.querySelector('.video-featured');if(video){video.querySelectorAll('a[data-cms-tiktok]').forEach(n=>n.remove());const a=document.createElement('a');a.dataset.cmsTiktok='1';a.className='cms-tiktok-link';a.target='_blank';a.rel='noopener noreferrer';a.href=httpsOrRelative(cms.settings.tiktok)||'#';a.textContent='Xem kênh TikTok Mi House Spa ↗';video.append(a);}}}
